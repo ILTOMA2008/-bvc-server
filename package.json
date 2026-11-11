@@ -1,0 +1,7 @@
+{
+  "name": "bvc-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "./server -config config.htcl"
+  }
+}
