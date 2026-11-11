@@ -1,5 +1,5 @@
 server {
-  listen = "0.0.0.0:8080"
-  public_url = "https://tuo_url_koyeb/"
+  listen = "0.0.0.0:10000"
+  public_url = "https://TUO_://onrender.com"
   access_token = "MinecraftVoce2026"
 }
